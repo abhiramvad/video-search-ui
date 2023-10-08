@@ -6,4 +6,4 @@ The user can then search through the video to fetch the relevant markers at whic
 
 Built using OpenCV, BERT and React.
 
-[Watch the demo video](./Video%20Search.mov)
+[Watch the demo video](https://youtu.be/lIkbUp3GysA)
